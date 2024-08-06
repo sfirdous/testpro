@@ -1,0 +1,12 @@
+1.Fake news alert system
+A fake news alert system will  involve creating a platform that can detect and flag potentially false information.
+a .Data Collection:
+News Sources: Collect data from a variety of news websites, social media platforms, and blogs.
+APIs: Use APIs from social media platforms like Twitter API and news aggregators like News API.
+b Preprocessing:
+Text Cleaning
+Tokenization
+Stop Words Removal
+Stemming/Lemmatization
+c.Model building
+d. To Create a browser extension to flag fake news directly on social media platforms and news websites.
