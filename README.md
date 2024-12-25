@@ -4,3 +4,4 @@
 
 - the error in creatEmailSession done
 - the error in setUser() and setLoggedIn() 
+- implement createEmailPasswordSession()
