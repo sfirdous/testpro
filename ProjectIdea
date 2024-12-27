@@ -21,22 +21,13 @@ Presentation Outline
 
 -Calculate X = (P^+)x
 
+# Electricity Bill Prediction App  
 
-# Simple Electricity Bill Prediction App
+## Overview  
+This app helps users predict their electricity bills based on energy consumption and local tariff rates. It is a simple tool designed to calculate estimated costs and provide insights into energy usage.  
 
-def get_tariff_rate():
-    """
-    Fetch the tariff rate per unit.
-    This can be replaced with dynamic rates fetched from an API or database.
-    """
-    return 5.5  # Example: 5.5 currency units per kWh
+## Features  
+- Predict electricity bills based on consumption and tariff rates.  
+- Easy-to-use interface for entering energy usage.  
+- Accurate and quick calculations.  
 
-
-def calculate_bill(consumption_kwh, tariff_rate):
-    """
-    Calculate the electricity bill.
-    :param consumption_kwh: Electricity consumed in kWh.
-    :param tariff_rate: Rate per unit of electricity.
-    :return: Total bill amount.
-    """
-    return consumption
