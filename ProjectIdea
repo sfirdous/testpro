@@ -20,3 +20,23 @@ Presentation Outline
 -Algorithms tried till now.
 
 -Calculate X = (P^+)x
+
+
+# Simple Electricity Bill Prediction App
+
+def get_tariff_rate():
+    """
+    Fetch the tariff rate per unit.
+    This can be replaced with dynamic rates fetched from an API or database.
+    """
+    return 5.5  # Example: 5.5 currency units per kWh
+
+
+def calculate_bill(consumption_kwh, tariff_rate):
+    """
+    Calculate the electricity bill.
+    :param consumption_kwh: Electricity consumed in kWh.
+    :param tariff_rate: Rate per unit of electricity.
+    :return: Total bill amount.
+    """
+    return consumption
