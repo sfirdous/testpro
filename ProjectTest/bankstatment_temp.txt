@@ -1,0 +1,72 @@
+Expanded Dummy Bank Statement
+Bank Name : Example Bank Pvt. Ltd.
+Branch : Main Branch, City Name
+Account Holder Name : John Doe
+Account Number : 409000611074
+Statement Period : 01 June 2017 - 30 September 2017
+Currency : INR
+Transactions
+Withdrawal Deposit Balance
+Date Description
+(INR) (INR) (INR)
+2017 - 06 - TRF FROM Indiaforensic
+- 1,000,000.00 1,000,000.00
+29 SERVICES
+2017 - 07 - TRF FROM Indiaforensic
+- 1,000,000.00 2,000,000.00
+05 SERVICES
+2017 - 07 -
+ATM Withdrawal 10,000.00 - 1,990,000.00
+12
+2017 - 07 - FDRL/INTERNAL FUND
+- 500,000.00 2,490,000.00
+18 TRANSFE
+2017 - 07 -
+POS Transaction 15,000.00 - 2,475,000.00
+25
+2017 - 08 - TRF FRM Indiaforensic
+- 3,000,000.00 5,475,000.00
+01 SERVICES
+2017 - 08 -
+Online Transfer 50,000.00 - 5,425,000.00
+05
+2017 - 08 -
+Bank Charges 500.00 - 5,424,500.00
+10
+2017 - 08 - FDRL/INTERNAL FUND
+- 500,000.00 5,924,500.00
+16 TRANSFE
+2017 - 08 -
+ATM Withdrawal 20,000.00 - 5,904,500.00
+20
+2017 - 08 -
+Cheque Clearance 25,000.00 - 5,879,500.00
+25
+2017 - 09 -
+TRF FROM XYZ Company - 1,000,000.00 6,879,500.00
+01
+2017 - 09 -
+Online Purchase 30,000.00 - 6,849,500.00
+05
+2017 - 09 -
+Cash Deposit - 50,000.00 6,899,500.00
+10
+
+--- Page 1 ---
+
+
+Withdrawal Deposit Balance
+Date Description
+(INR) (INR) (INR)
+2017 - 09 -
+Bank Charges 1,000.00 - 6,898,500.00
+15
+2017 - 09 -
+POS Transaction 45,000.00 - 6,853,500.00
+20
+2017 - 09 -
+Cheque Clearance 70,000.00 - 6,783,500.00
+25
+2017 - 09 -
+TRF FROM ABC Solutions - 2,000,000.00 8,783,500.00
+30

@@ -1,0 +1,136 @@
+{
+  "bankStatement": {
+    "bankName": "Example Bank Pvt. Ltd.",
+    "branch": "Main Branch, City Name",
+    "accountHolderName": "John Doe",
+    "accountNumber": "409000611074",
+    "statementPeriod": {
+      "startDate": "2017-06-01",
+      "endDate": "2017-09-30"
+    },
+    "currency": "INR",
+    "transactions": [
+      {
+        "date": "2017-06-29",
+        "description": "TRF FROM Indiaforensic",
+        "withdrawal": 1000000,
+        "deposit": 1000000,
+        "balance": 2000000
+      },
+      {
+        "date": "2017-07-05",
+        "description": "SERVICES",
+        "withdrawal": 10000,
+        "deposit": 0,
+        "balance": 1990000
+      },
+      {
+        "date": "2017-07-12",
+        "description": "FDRL/INTERNAL FUND",
+        "withdrawal": 500000,
+        "deposit": 0,
+        "balance": 2490000
+      },
+      {
+        "date": "2017-07-18",
+        "description": "TRANSFE",
+        "withdrawal": 15000,
+        "deposit": 0,
+        "balance": 2475000
+      },
+      {
+        "date": "2017-07-25",
+        "description": "SERVICES",
+        "withdrawal": 500,
+        "deposit": 0,
+        "balance": 2474500
+      },
+      {
+        "date": "2017-07-16",
+        "description": "FDRL/INTERNAL FUND",
+        "withdrawal": 500000,
+        "deposit": 0,
+        "balance": 5924500
+      },
+      {
+        "date": "2017-07-20",
+        "description": "TRANSFE",
+        "withdrawal": 20000,
+        "deposit": 0,
+        "balance": 5904500
+      },
+      {
+        "date": "2017-07-25",
+        "description": "CHEQUE CLEARANCE",
+        "withdrawal": 25000,
+        "deposit": 0,
+        "balance": 5879500
+      },
+      {
+        "date": "2017-08-01",
+        "description": "TRF FROM Indiaforensic",
+        "withdrawal": 3000000,
+        "deposit": 0,
+        "balance": 5475000
+      },
+      {
+        "date": "2017-08-05",
+        "description": "ONLINE TRANSFER",
+        "withdrawal": 50000,
+        "deposit": 0,
+        "balance": 5425000
+      },
+      {
+        "date": "2017-08-10",
+        "description": "BANK CHARGES",
+        "withdrawal": 500,
+        "deposit": 0,
+        "balance": 5424500
+      },
+      {
+        "date": "2017-08-16",
+        "description": "FDRL/INTERNAL FUND",
+        "withdrawal": 500000,
+        "deposit": 0,
+        "balance": 5924500
+      },
+      {
+        "date": "2017-08-20",
+        "description": "TRANSFE",
+        "withdrawal": 20000,
+        "deposit": 0,
+        "balance": 5904500
+      },
+      {
+        "date": "2017-08-25",
+        "description": "CHEQUE CLEARANCE",
+        "withdrawal": 70000,
+        "deposit": 0,
+        "balance": 6783500
+      },
+      {
+        "date": "2017-08-30",
+        "description": "TRF FROM ABC Solutions",
+        "withdrawal": 2000000,
+        "deposit": 0,
+        "balance": 8783500
+      }
+    ],
+    "page1": {
+      "date": "2017-09-15",
+      "description": "BANK CHARGES",
+      "withdrawal": 1000,
+      "deposit": 0,
+      "balance": 6898500
+    },
+    "page1_2": {
+      "date": "2017-09-20",
+      "description": "POS TRANSACTION",
+      "withdrawal": 45000,
+      "deposit": 0,
+      "balance": 6853500
+    },
+    "page1_3": {
+      "date": "2017-09-25",
+      "description": "CHEQUE CLEARANCE",
+     

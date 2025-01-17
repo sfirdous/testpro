@@ -1,0 +1,102 @@
+{
+  "BankName": "Example Bank Pvt. Ltd.",
+  "Branch": "Main Branch, City Name",
+  "AccountHolderName": "John Doe",
+  "AccountNumber": "409000611074",
+  "StatementPeriod": "01 June 2017 - 30 September 2017",
+  "Currency": "INR",
+  "Transactions": [
+    {
+      "Date": "2017-06-01",
+      "Description": "TRF FROM Indiaforensic",
+      "Amount": "1,000,000.00",
+      "Type": "Withdrawal Deposit Balance"
+    },
+    {
+      "Date": "2017-07-01",
+      "Description": "TRF FROM Indiaforensic",
+      "Amount": "2,000,000.00",
+      "Type": "Withdrawal Deposit Balance"
+    },
+    {
+      "Date": "2017-07-05",
+      "Description": "Services",
+      "Amount": "1,000,000.00",
+      "Type": "Withdrawal Deposit Balance"
+    },
+    {
+      "Date": "2017-07-12",
+      "Description": "ATM Withdrawal",
+      "Amount": "-1,990,000.00",
+      "Type": "ATM Withdrawal"
+    },
+    {
+      "Date": "2017-07-18",
+      "Description": "FDRL/INTERNAL FUND",
+      "Amount": "-500,000.00",
+      "Type": "FDRL/INTERNAL FUND"
+    },
+    {
+      "Date": "2017-07-25",
+      "Description": "POS Transaction",
+      "Amount": "15,000.00",
+      "Type": "POS Transaction"
+    },
+    {
+      "Date": "2017-08-01",
+      "Description": "TRF FRM Indiaforensic",
+      "Amount": "-3,000,000.00",
+      "Type": "TRF FRM Indiaforensic"
+    },
+    {
+      "Date": "2017-08-05",
+      "Description": "Online Transfer",
+      "Amount": "50,000.00",
+      "Type": "Online Transfer"
+    },
+    {
+      "Date": "2017-08-10",
+      "Description": "Bank Charges",
+      "Amount": "-500.00",
+      "Type": "Bank Charges"
+    },
+    {
+      "Date": "2017-08-16",
+      "Description": "FDRL/INTERNAL FUND",
+      "Amount": "-500,000.00",
+      "Type": "FDRL/INTERNAL FUND"
+    },
+    {
+      "Date": "2017-08-20",
+      "Description": "ATM Withdrawal",
+      "Amount": "-20,000.00",
+      "Type": "ATM Withdrawal"
+    },
+    {
+      "Date": "2017-08-25",
+      "Description": "Cheque Clearance",
+      "Amount": "-25,000.00",
+      "Type": "Cheque Clearance"
+    },
+    {
+      "Date": "2017-09-01",
+      "Description": "TRF FROM XYZ Company",
+      "Amount": "-1,000,000.00",
+      "Type": "TRF FROM XYZ Company"
+    },
+    {
+      "Date": "2017-09-05",
+      "Description": "Online Purchase",
+      "Amount": "30,000.00",
+      "Type": "Online Purchase"
+    },
+    {
+      "Date": "2017-09-10",
+      "Description": "Cash Deposit",
+      "Amount": "-50,000.00",
+      "Type": "Cash Deposit"
+    }
+  ]
+}
+
+
